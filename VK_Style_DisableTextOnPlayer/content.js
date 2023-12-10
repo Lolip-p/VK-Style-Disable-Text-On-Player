@@ -1,5 +1,3 @@
-// Убираем обработчик события по клавише Escape
-
 // Получаем элемент аудиоплеера
 var audioPlayer = document.querySelector('.top_audio_player');
 
