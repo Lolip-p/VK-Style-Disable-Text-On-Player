@@ -1,2 +1,3 @@
 # VK Style Disable Text On Player
-This is an additional extension for VK Style. disabling text in player mode, leaving only the background.
+This is an additional extension for VK Style. It turns off text in player mode and leaves only the background.
+Это дополнительное расширение для VK Style. Он отключает текст в режиме плеера и оставляет только фон.
